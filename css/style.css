@@ -17,7 +17,7 @@ div.logo {
 footer {
     background-color: black;
     padding: 2cm;
-    margin-top: 2cm;
+    margin-top: 6cm;
 }
 
 div.copyright {
@@ -26,18 +26,14 @@ div.copyright {
 }
 
 div.poesia1 {
-    margin-top: 2cm;
-    margin-left: 3cm;
-    margin-right: 3cm;
+    margin-top: 9cm;
     padding-bottom: 2cm;
     padding-top: 0.5cm;
     color: aliceblue;
 }
 
 div.poesia2 {
-    margin-top: 2cm;
-    margin-left: 3cm;
-    margin-right: 3cm;
+    margin-top: 9cm;
     padding-bottom: 2cm;
     padding-top: 0.5cm;
     color: aliceblue;
@@ -62,7 +58,7 @@ h2 {
 }
 
 div.poesia3 {
-    margin-top: 2cm;
+    margin-top: 9cm;
     margin-left: 3cm;
     margin-right: 3cm;
     padding-bottom: 2cm;
@@ -79,7 +75,7 @@ h3 {
 }
 
 div.poesia4 {
-    margin-top: 2cm;
+    margin-top: 9cm;
     margin-left: 3cm;
     margin-right: 3cm;
     padding-bottom: 2cm;
